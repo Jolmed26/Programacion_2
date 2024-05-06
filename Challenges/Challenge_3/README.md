@@ -20,9 +20,4 @@ $ pip install scikit-learn==1.2.2
 ```
 </details> 
 
-For the full guide, refer to our blog article [How to Scrape Instagram](https://scrapfly.io/blog/how-to-scrape-instagram/)
-
-
-</details> 
-
-For the full guide, refer to our blog article [How to Scrape Zoopla Real Estate Property Data in Python](https://scrapfly.io/blog/how-to-scrape-zoopla/)
+For more details check de documentation folder.
