@@ -1,1 +1,12 @@
 data/
+
+# Ignore .csv
+comments_data_en.csv
+comments_data_es.csv
+comments_data.csv
+challenge3.csv
+
+# Ignore .npy
+confusion_matrix.npy
+confusion_matrixen.npy
+congusion_matrixes.npy
