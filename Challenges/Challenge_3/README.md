@@ -6,6 +6,8 @@ This repository contains educational example of web scapping and a sentiment ana
 
 This repository contains _educational_ reference material to illustrate how to webscrap and do a sentiment analysis.
 
+## Python version 3.11.5
+
 ## Setup and Run
 1. Install the required libraries:
 ```shell
