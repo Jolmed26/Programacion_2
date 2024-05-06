@@ -1,4 +1,4 @@
-### Web Scraping
+## Web Scraping
 
 This repository contains educational example of web scapping and a sentiment analysis.  
 
