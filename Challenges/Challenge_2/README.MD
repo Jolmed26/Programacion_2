@@ -6,8 +6,7 @@ This repository contains educational example of predictive models.
 
 This repository contains _educational_ reference material to illustrate how to do predictive analysis.
 
-## Before isntall
-
+## Python version 3.11.5
 
 ## Setup and Run
 1. Install the required libraries:
