@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/450674426537502014/a18362ec64f6484db247c33dbde9017b/artifacts
+deleted_time: 1713147634436
+end_time: 1713147415310
+entry_point_name: ''
+experiment_id: '450674426537502014'
+lifecycle_stage: deleted
+run_id: a18362ec64f6484db247c33dbde9017b
+run_name: masked-wasp-162
+run_uuid: a18362ec64f6484db247c33dbde9017b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713147415150
+status: 4
+tags: []
+user_id: luism

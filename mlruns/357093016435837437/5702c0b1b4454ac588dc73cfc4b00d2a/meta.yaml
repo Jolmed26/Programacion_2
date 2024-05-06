@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/357093016435837437/5702c0b1b4454ac588dc73cfc4b00d2a/artifacts
+end_time: 1713147619411
+entry_point_name: ''
+experiment_id: '357093016435837437'
+lifecycle_stage: active
+run_id: 5702c0b1b4454ac588dc73cfc4b00d2a
+run_name: auspicious-shoat-46
+run_uuid: 5702c0b1b4454ac588dc73cfc4b00d2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713147619205
+status: 3
+tags: []
+user_id: luism

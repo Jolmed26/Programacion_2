@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/899684204637023889/68b77aef9ac440ebbed57266ae30d017/artifacts
+deleted_time: 1713951542939
+end_time: 1713951100516
+entry_point_name: ''
+experiment_id: '899684204637023889'
+lifecycle_stage: deleted
+run_id: 68b77aef9ac440ebbed57266ae30d017
+run_name: beautiful-foal-328
+run_uuid: 68b77aef9ac440ebbed57266ae30d017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713951100342
+status: 4
+tags: []
+user_id: luism
