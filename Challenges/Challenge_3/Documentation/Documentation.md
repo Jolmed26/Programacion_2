@@ -1,20 +1,40 @@
 ## Web Scraping
 
-This repository contains educational example of web scapping and a sentiment analysis.  
+To run the webscrapping you have to follow the nexst steps:  
 
-Import required libraries
+#### 1. Import required libraries
+
+```shell
+import googleapiclient.discovery
+  
+```
+Since we are working with a googleapi is necesary for you to get a key, you cand do so by going to goole cloud and downloading [YouTube API](https://developers.google.com/youtube/v3/getting-started)
+
+update dev with your key and you are ready to run the code.
+
+```shell
+dev = "your_api"  
+```
+This will create a df with the info and will be saved as a csv file, you can update that
+
+```shell
+csv_file_path = 'comments_data.csv'
+df.to_csv(csv_file_path, index=False)  
+```
+
+#### 1. Import required libraries
+
+## Model construction
 
 ```shell
 import googleapiclient.discovery
   
 ```
 
-
-## Fair Use and Legal Disclaimer
-
 This repository contains _educational_ reference material to illustrate how to webscrap and do a sentiment analysis.
 
-## Setup and Run
+## MLOps
+
 1. Install the required libraries:
 ```shell
 $ pip install pandas==2.0.3
