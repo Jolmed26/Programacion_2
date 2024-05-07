@@ -24,9 +24,7 @@ $ pip install seaborn==0.12.2
 
 ## Get data
 
-To get the date you should go to [Breast Cancer Diagnosis](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
-
-Once there, click in download to get the data set.
+Data used in this document is personal and cannot be shared, feel free to use your own.
 
 ```
 </details> 
