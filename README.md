@@ -2,8 +2,8 @@
 
 ## *Centro Universitario de Ciencias Económico Administrativas*
 
-*Programación II*
+## *Programación II*
 
-José Luis Medrano Medrano
+*José Luis Medrano Medrano*
 
-jose.medrano7407@alumnos.udg.mx
+*jose.medrano7407@alumnos.udg.mx*
