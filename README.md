@@ -1,4 +1,4 @@
-**Universidad de Guadalajara**
+# Universidad de Guadalajara
 
 **Centro Universitario de Ciencias Económico Administrativas**
 
