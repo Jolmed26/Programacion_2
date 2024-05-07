@@ -1,8 +1,8 @@
-Universidad de Guadalajara
+**Universidad de Guadalajara**
 
-Centro Universitario de Ciencias Económico Administrativas
+**Centro Universitario de Ciencias Económico Administrativas**
 
-Programación II
+*Programación II*
 
 José Luis Medrano Medrano
 
