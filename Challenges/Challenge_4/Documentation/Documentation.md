@@ -22,10 +22,10 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, roc_curve,
 
 A confusion matrix is a table that categorizes predictions based on whether they match the actual values.
 
-- True Positive (TP): Malignant tumor correctly classified as malignant.
-- True Negative (TN): Benign tumor correctly classified as benign.
-- False Positive (FP): Benign tumor incorrectly classified as malignant.
-- False Negative (FN): Malignant tumor incorrectly classified as benign.
+- True Positive (TP): Turnover correctly classified as Turnover.
+- True Negative (TN): Not turnover correctly classified as Not turnover.
+- False Positive (FP): Not turnover incorrectly classified as turnover.
+- False Negative (FN): turnover incorrectly classified as Not turnover.
 
 Metrics:
 

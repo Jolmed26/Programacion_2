@@ -1,4 +1,4 @@
-# Challenge 1 Thesis model evaluation
+# Challenge 4 Thesis model evaluation
 
 This repository contains educational example of predictive models.  
 
